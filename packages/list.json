@@ -1,0 +1,50 @@
+[
+  {
+    "compName": "Button",
+    "compZhName": "按钮",
+    "compDesc": "这是一个按钮",
+    "compClassName": "button"
+  },
+  {
+    "compName": "Bran",
+    "compZhName": "鹏程",
+    "compDesc": "默认：这是一个新组件",
+    "compClassName": "bran"
+  },
+  {
+    "compName": "Input",
+    "compZhName": "输入框",
+    "compDesc": "Input 输入框组件",
+    "compClassName": "input"
+  },
+  {
+    "compName": "Hello",
+    "compZhName": "你好",
+    "compDesc": "默认：这是一个新组件",
+    "compClassName": "hello"
+  },
+  {
+    "compName": "Zzj",
+    "compZhName": "张泽佳",
+    "compDesc": "叼毛",
+    "compClassName": "zzj"
+  },
+  {
+    "compName": "Select",
+    "compZhName": "选择器",
+    "compDesc": "这是一个选择器",
+    "compClassName": "select"
+  },
+  {
+    "compName": "BoltCut",
+    "compZhName": "闪剪",
+    "compDesc": "闪剪智能，闪耀未来",
+    "compClassName": "bolt-cut"
+  },
+  {
+    "compName": "Tk",
+    "compZhName": "帅气",
+    "compDesc": "佛山周杰伦",
+    "compClassName": "tk"
+  }
+]

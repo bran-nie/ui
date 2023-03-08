@@ -1,0 +1,3 @@
+<template>
+    <x-bran />
+</template>
